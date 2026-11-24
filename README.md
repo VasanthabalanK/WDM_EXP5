@@ -1,4 +1,4 @@
-### EX5 Information Retrieval Using Boolean Model in Python
+ ### EX5 Information Retrieval Using Boolean Model in Python
 ### DATE:23/11/2026
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
